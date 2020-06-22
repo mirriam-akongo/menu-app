@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: #b6352eb7;
+}
+
+.Navitems {
+  display: inline-block;
+  padding-left: 16px;
+  padding-right: 16px;
+  color: wheat;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Navbar {
+  background-color: #333;
+  margin: 0px;
+}
+
+.image {
+  display: inline-block;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+
+.title {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 300;
+  color: wheat;
+  font-weight: bold;
+}
+
+.menuitem {
+  margin: 32px;
+}
+h1 {
+  color: #460f0c;
+}
